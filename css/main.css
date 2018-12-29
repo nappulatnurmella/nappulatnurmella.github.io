@@ -3,7 +3,8 @@
 }
 
 body {
-    background-image: url('/img/bg.jpg')
+    background-image: url('/img/bg.jpg');
+    padding: 10px;
 }
 
 #wrapper {
@@ -36,6 +37,17 @@ body {
 #content {
     background-color: white;
     padding: 20px;
+}
+
+#footer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#footer .main-sponsor img {
+    width: 150px;
 }
 
 h1 {
