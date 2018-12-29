@@ -62,4 +62,4 @@ osallistuville joukkueille hyvissä ajoin ennen turnausta.
 
 ## PELISÄÄNNÖT
 
-TODO PDF-linkki
+Pelisäännöt lisätään myöhemmin.
