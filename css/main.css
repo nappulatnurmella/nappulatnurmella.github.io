@@ -1,0 +1,44 @@
+* {
+    font-family: 'Open Sans', serif;
+}
+
+body {
+    background-image: url('/img/bg.jpg')
+}
+
+#wrapper {
+    border: 1px solid black;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#header {
+    color: white;
+    background-color: #ed3a1e;
+}
+
+#header a {
+    color: white;
+    text-decoration: none;
+}
+
+#header .menu {
+    display: flex;
+    line-height: 60px;
+}
+
+#header .menu > div {
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+#content {
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    margin-top: 0;
+}
