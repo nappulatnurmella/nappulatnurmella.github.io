@@ -7,8 +7,9 @@ permalink: /tapahtuma/
 
 ## SARJAT
 
-Lauantai 25.5.2018 P2009, 16 joukkuetta, kilpa ja harraste
-Sunnuntai 26.5.2018 P2010, 24 joukkuetta, kilpa ja harraste
+**P2009** lauantai 25.5.2018, 16 joukkuetta, kilpa ja harraste
+
+**P2010** sunnuntai 26.5.2018, 24 joukkuetta, kilpa ja harraste
 
 ## PELITAPA
 
