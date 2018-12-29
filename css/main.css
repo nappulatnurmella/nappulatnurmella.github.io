@@ -27,9 +27,11 @@ body {
 #header .menu {
     display: flex;
     line-height: 60px;
+    flex-wrap: wrap;
 }
 
 #header .menu > div {
+    margin: 0 20px;
     flex: 1 1 auto;
     text-align: center;
 }
@@ -44,6 +46,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
+    padding-bottom: 30px;
 }
 
 #footer .main-sponsor img {
