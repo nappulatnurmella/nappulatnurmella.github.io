@@ -19,6 +19,16 @@ url: "https://nappulatnurmella.github.io" # the base hostname & protocol for you
 
 sign_up_form: "https://docs.google.com/forms/d/e/1FAIpQLSfK5DmdCgIv5Qjh0Jkz_HR2S7J-ycdZm1HfLYuiam7hMc26Dg/viewform"
 
+main_sponsor_logo: vw.jpg
+sponsor_logos:
+  - - gobabygo.jpg
+    - kiilto.png
+  - - lidl.png
+    - remeo.jpg
+  - - rtv.jpg
+  - - splizzeria.png
+    - superpark.png
+
 # Build settings
 markdown: kramdown
 

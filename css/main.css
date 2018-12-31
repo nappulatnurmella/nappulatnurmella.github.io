@@ -62,15 +62,21 @@ h1 {
     margin-bottom: 10px;
 }
 
-#footer .imgs {
+#footer .logos {
     line-height: 150px;
 }
 
-#footer .imgs img {
+#footer .logos img {
     vertical-align: middle;
+    margin: 30px;
+    max-width: calc(100% - 60px);
 }
 
-#sponsor-vw { width: 150px; }
-#sponsor-lidl { width: 150px; }
-#sponsor-rtv { }
 #sponsor-gobabygo { width: 150px; }
+#sponsor-kiilto { width: 150px; }
+#sponsor-lidl { width: 150px; }
+#sponsor-remeo { width: 300px; }
+#sponsor-rtv { }
+#sponsor-splizzeria { }
+#sponsor-superpark { }
+#sponsor-vw { width: 150px; }
