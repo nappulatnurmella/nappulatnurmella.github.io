@@ -7,6 +7,11 @@ body {
     padding: 10px;
 }
 
+h1 {
+    font-size: 28px;
+    margin-top: 0;
+}
+
 #wrapper {
     border: 1px solid black;
     width: 100%;
@@ -43,17 +48,29 @@ body {
 
 #footer {
     background-color: white;
-    display: flex;
-    justify-content: center;
     text-align: center;
     padding-bottom: 30px;
 }
 
-#footer .main-sponsor img {
-    width: 150px;
+#footer .main-sponsor {
+    margin-bottom: 30px;
 }
 
-h1 {
-    font-size: 28px;
-    margin-top: 0;
+#footer .main-sponsor .title,
+#footer .sponsors .title {
+    font-weight: bold;
+    margin-bottom: 10px;
 }
+
+#footer .imgs {
+    line-height: 150px;
+}
+
+#footer .imgs img {
+    vertical-align: middle;
+}
+
+#sponsor-vw { width: 150px; }
+#sponsor-lidl { width: 150px; }
+#sponsor-rtv { }
+#sponsor-gobabygo { width: 150px; }
