@@ -38,6 +38,6 @@ Jasmin Lumiaho
 
 **Puh:** 044 252 2245
 
-**Email:** [jasmin.lumíaho@gmail.com](mailto:jasmin.lumíaho@gmail.com)
+**Email:** [jasmin.lumiaho@gmail.com](mailto:jasmin.lumiaho@gmail.com)
 
 Tiedustelut koskien -10 ja -11 joukkueita
