@@ -27,6 +27,8 @@ Markku Oksman
 
 Pekka Santanen
 
+**Puh:** 040 507 6007
+
 **Email:** [pekka.santanen0@saunalahti.fi](mailto:pekka.santanen0@saunalahti.fi)
 
 Tiedustelut koskien -09 joukkueita
