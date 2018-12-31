@@ -14,13 +14,20 @@ permalink: /yhteystiedot/
 **Facebook:** [https://facebook.com/nappulatnurmella](https://facebook.com/nappulatnurmella)
 
 
+## Turnausvastaava
+
+Markku Oksman
+
+**Puh:** 040 744 2342
+
+**Email:** [majook@utu.fi](mailto:majook@utu.fi)
+
+
 ## Pojat -09
 
-Pekka XXX
+Pekka Santanen
 
-**Puh:** XXXXXXX
-
-**Email:** xxx@xxx
+**Email:** [pekka.santanen0@saunalahti.fi](mailto:pekka.santanen0@saunalahti.fi)
 
 Tiedustelut koskien -09 joukkueita
 
@@ -33,4 +40,4 @@ Jasmin Lumiaho
 
 **Email:** [jasmin.lumíaho@gmail.com](mailto:jasmin.lumíaho@gmail.com)
 
-Tiedustelut koskien -10 joukkueita
+Tiedustelut koskien -10 ja -11 joukkueita
