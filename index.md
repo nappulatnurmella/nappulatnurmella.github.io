@@ -5,8 +5,8 @@ layout: default
 # Volkswagen Nappulat Nurmella 2019
 
 Kärsämäen nappulat järjestää jo seitsemännen kerran turnauksen
-lauantaina 25.5.2019 -09 pojille ja sunnuntaina 26.5.2019 -10 pojille
-Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
+lauantaina 25.5.2019 -09 pojille ja sunnuntaina 26.5.2019 -10 ja -11
+pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
 Turnaus on osa Kärsämäen kaupunginosaviikkoa. Tule joukkueesi kanssa
 pelaamaan tai muuten vain paikan päälle katsomaan miten maamme

@@ -34,7 +34,7 @@ Pekka Santanen
 Tiedustelut koskien -09 joukkueita
 
 
-## Pojat -10
+## Pojat -10 ja -11
 
 Jasmin Lumiaho
 
