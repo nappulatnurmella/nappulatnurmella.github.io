@@ -8,6 +8,14 @@ Kärsämäen nappulat järjestää jo seitsemännen kerran turnauksen
 lauantaina 25.5.2019 -09 pojille ja sunnuntaina 26.5.2019 -10 ja -11
 pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
+## Uutiset
+
+**9.1.2019:** 2010 syntyneiden sarjat ovat täynnä! Muissa sarjoissa on
+vielä hyvin tilaa.
+
+
+## Yleistä
+
 Turnaus on osa Kärsämäen kaupunginosaviikkoa. Tule joukkueesi kanssa
 pelaamaan tai muuten vain paikan päälle katsomaan miten maamme
 jalkapallon toivot näyttävät parastaan.
