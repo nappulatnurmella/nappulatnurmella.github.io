@@ -5,7 +5,7 @@ permalink: /otteluohjelma/
 
 # Otteluohjelma
 
-Alla 29.1.2019 mennessä ilmoittautuneet joukkueet. Varsinainen
+Alla 19.3.2019 mennessä ilmoittautuneet joukkueet. Varsinainen
 otteluohjelma julkaistaan myöhemmin.
 
 ## 2009 Kilpa
@@ -14,17 +14,21 @@ otteluohjelma julkaistaan myöhemmin.
 * EBK Sininen
 * TuNL Hannunniittu
 * MynPa -53
+* TuNL Kärsämäen Kotkat
+* TuNL Timantit 2007-2009
+* KaPy
+* PiPS
 
 ## 2009 Haaste/Harraste
 
-* TuNL Kärsämäen Kotkat
+* TuNL Kärsämäen Kunkut
 * LTU Salamat
 * FC Halikko
-* TuNL Aunela
-* TuNL Linna
+* TuNL Aunelan Maalitykit
 * TPS T10
 * Liedon Pallo Punainen
 * Raifu
+* Urjalan Palloseura
 
 ## 2010 Kilpa
 
@@ -50,14 +54,17 @@ otteluohjelma julkaistaan myöhemmin.
 
 ## 2011 Kilpa
 
-* Liedon Pallo Punainen
 * TuNL Linna
 * ÅIFK Svarta
 * TuNL Runosmäki
+* LiePa -11 Punainen
+* Ltu Tornadot Musta
 
 ## 2011 Haaste/Harraste
 
 * ÅIFK Gula
 * TuNL Kärsämäen Käärmeet -11
 * FC Rauma
-* Liedon Pallo Punainen
+* LiePa -11 Musta
+* Ltu Tornadot Keltainen
+* TuNL Peltola -11/12
