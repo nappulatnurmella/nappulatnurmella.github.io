@@ -72,6 +72,7 @@ h1 {
     max-width: calc(100% - 60px);
 }
 
+#sponsor-funsense { width: 290px; }
 #sponsor-gigantti { width: 280px; }
 #sponsor-gobabygo { width: 150px; }
 #sponsor-kiilto { width: 150px; }
