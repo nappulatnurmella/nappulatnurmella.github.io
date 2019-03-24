@@ -10,6 +10,8 @@ pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
 ## Uutiset
 
+**24.3.2019:** 2011 haaste/harrastesarja on täynnä!
+
 **16.3.2019:** 2009 kilpasarja on täynnä! 2011 syntyneiden sarjoihin
 mahtuu vielä.
 
