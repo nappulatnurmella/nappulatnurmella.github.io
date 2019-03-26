@@ -5,7 +5,7 @@ permalink: /otteluohjelma/
 
 # Otteluohjelma
 
-Alla 19.3.2019 mennessä ilmoittautuneet joukkueet. Varsinainen
+Alla 26.3.2019 mennessä ilmoittautuneet joukkueet. Varsinainen
 otteluohjelma julkaistaan myöhemmin.
 
 ## 2009 Kilpa
@@ -59,6 +59,7 @@ otteluohjelma julkaistaan myöhemmin.
 * TuNL Runosmäki
 * LiePa -11 Punainen
 * Ltu Tornadot Musta
+* Uittamon Titaanit
 
 ## 2011 Haaste/Harraste
 
@@ -68,3 +69,5 @@ otteluohjelma julkaistaan myöhemmin.
 * LiePa -11 Musta
 * Ltu Tornadot Keltainen
 * TuNL Peltola -11/12
+* APU
+* MaPS Valkoinen
