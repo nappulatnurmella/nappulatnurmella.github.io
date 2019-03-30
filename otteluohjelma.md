@@ -12,7 +12,6 @@ otteluohjelma julkaistaan myöhemmin.
 
 * FC Halikko
 * EBK Sininen
-* TuNL Hannunniittu
 * MynPa -53
 * TuNL Kärsämäen Kotkat
 * TuNL Timantit 2007-2009
