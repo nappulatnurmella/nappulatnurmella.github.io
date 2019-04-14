@@ -29,9 +29,10 @@ sponsor_logos:
     - gobabygo.jpg
   - - funsense.png
     - remeo.jpg
+  - - moi.png
+    - kiilto.png
   - - rtv.jpg
-  - - kiilto.png
-    - superpark.png
+  - - superpark.png
 
 # Build settings
 markdown: kramdown
