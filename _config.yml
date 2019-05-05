@@ -20,7 +20,7 @@ url: "https://nappulatnurmella.github.io" # the base hostname & protocol for you
 sign_up_form: "https://docs.google.com/forms/d/e/1FAIpQLSfK5DmdCgIv5Qjh0Jkz_HR2S7J-ycdZm1HfLYuiam7hMc26Dg/viewform"
 
 main_sponsor_logo: vw.jpg
-sponsor_logos:
+sponsors_with_logos:
   - - lidl.png
     - gigantti.jpg
   - - splizzeria.png
@@ -33,6 +33,34 @@ sponsor_logos:
     - kiilto.png
   - - rtv.jpg
   - - superpark.png
+sponsor_names:
+  - Casagrande
+  - FunSense
+  - Gigantti
+  - GoBabyGo
+  - Hovirinnan kioski
+  - Jeren Auto Jevi
+  - K-rauta Kuninkoja
+  - Kasvitieteellinen puutarha
+  - Kiilto
+  - Leipomo Salonen
+  - Lemmikkiasema
+  - Lidl
+  - Mehukattimaailma
+  - Moi
+  - Orkla
+  - Palosammutin PS
+  - Pizza Perez
+  - RTV
+  - Remeo
+  - Salonen
+  - Splizzeria
+  - Superpark
+  - Trampolinpark
+  - Turun Eines
+  - Turun Linna
+  - Viking Line
+  - Volkswagen
 
 # Build settings
 markdown: kramdown

@@ -5,12 +5,17 @@
 <div class="sponsors">
   <div class="title">Sponsorit</div>
   <div class="logos">
-    {% for row in site.sponsor_logos %}
+    {% for row in site.sponsors_with_logos %}
       <div class="logos-row">
       {% for logo in row %}
         <img id="sponsor-{{ logo | split: "." | first }}" src="/img/{{ logo }}">
       {% endfor %}
       </div>
+    {% endfor %}
+  </div>
+  <div class="names">
+    {% for name in site.sponsor_names %}
+      <div>{{ name }}</div>
     {% endfor %}
   </div>
 </div>

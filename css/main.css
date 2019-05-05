@@ -62,11 +62,11 @@ h1 {
     margin-bottom: 10px;
 }
 
-#footer .logos {
+#footer .sponsors .logos {
     line-height: 150px;
 }
 
-#footer .logos img {
+#footer .sponsors .logos img {
     vertical-align: middle;
     margin: 30px;
     max-width: calc(100% - 60px);
@@ -85,3 +85,13 @@ h1 {
 #sponsor-superpark { }
 #sponsor-turun_eines { width: 205px; }
 #sponsor-vw { width: 150px; }
+
+#footer .sponsors .names {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#footer .sponsors .names div {
+    flex: 1 0 auto;
+    padding: 10px 20px;
+}
