@@ -62,7 +62,6 @@ otteluohjelma julkaistaan myöhemmin.
 
 ## 2011 Haaste/Harraste
 
-* ÅIFK Gula
 * TuNL Kärsämäen Käärmeet -11
 * FC Rauma
 * LiePa -11 Musta
@@ -70,3 +69,4 @@ otteluohjelma julkaistaan myöhemmin.
 * TuNL Peltola -11/12
 * APU
 * MaPS Valkoinen
+* Marttilan Murto
