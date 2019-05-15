@@ -5,8 +5,19 @@ permalink: /otteluohjelma/
 
 # Otteluohjelma
 
-Alla 26.3.2019 mennessä ilmoittautuneet joukkueet. Varsinainen
-otteluohjelma julkaistaan myöhemmin.
+Otteluohjelmat ikäluokittain aukeavat allaolevista linkeistä:
+
+* [Peliohjelma 2009 syntyneet](/static/Peliohjelma 2009-syntyneet.pdf)
+* [Peliohjelma 2010 syntyneet](/static/Peliohjelma 2010-syntyneet.pdf)
+* [Peliohjelma 2011 syntyneet](/static/Peliohjelma 2011-syntyneet.pdf)
+
+Rankkariskaban aikataulut:
+
+* [Rankkariskaba 2009 syntyneet](/static/Rankkariskaba 2009-syntyneet.pdf)
+* [Rankkariskaba 2010 syntyneet](/static/Rankkariskaba 2010-syntyneet.pdf)
+* [Rankkariskaba 2011 syntyneet](/static/Rankkariskaba 2011-syntyneet.pdf)
+
+# Turnausjoukkueet
 
 ## 2009 Kilpa
 
