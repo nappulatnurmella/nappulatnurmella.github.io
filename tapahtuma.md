@@ -63,8 +63,3 @@ ratkotaan päivän päätteeksi. Maalivahtina aikuinen maalivahti.
 Mikäli nurmikentän kunto ei salli pelaamista, pelataan läheisillä
 hiekkakentillä. Tarkemmat tiedot ja ohjeet ilmoitetaan turnaukseen
 osallistuville joukkueille hyvissä ajoin ennen turnausta.
-
-
-## PELISÄÄNNÖT
-
-Pelisäännöt lisätään myöhemmin.
