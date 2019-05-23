@@ -24,7 +24,6 @@ Rankkariskaban aikataulut:
 * FC Halikko
 * EBK Sininen
 * MynPa -53
-* TuNL Kärsämäen Kotkat
 * TuNL Timantit 2007-2009
 * KaPy
 * PiPS
