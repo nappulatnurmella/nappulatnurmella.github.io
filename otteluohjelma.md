@@ -24,7 +24,7 @@ Rankkariskaban aikataulut:
 * FC Halikko
 * EBK Sininen
 * MynPa -53
-* TuNL Timantit 2007-2009
+* FC Eurajoki
 * KaPy
 * PiPS
 
@@ -64,7 +64,7 @@ Rankkariskaban aikataulut:
 ## 2011 Kilpa
 
 * TuNL Linna
-* ÅIFK Svarta
+* TuNL Kärsämäki United 12/13
 * TuNL Runosmäki
 * LiePa -11 Punainen
 * Ltu Tornadot Musta
