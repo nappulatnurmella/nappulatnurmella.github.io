@@ -2,23 +2,15 @@
 layout: default
 ---
 
-# Volkswagen Nappulat Nurmella 2019
+# Volkswagen Nappulat Nurmella 2020
 
 Kärsämäen nappulat järjestää jo seitsemännen kerran turnauksen
-lauantaina 25.5.2019 -09 pojille ja sunnuntaina 26.5.2019 -10 ja -11
+lauantaina 23.5.2020 -10 pojille ja sunnuntaina 24.5.2019 -11 ja -12
 pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
 ## Uutiset
 
-**24.3.2019:** 2011 haaste/harrastesarja on täynnä!
-
-**16.3.2019:** 2009 kilpasarja on täynnä! 2011 syntyneiden sarjoihin
-mahtuu vielä.
-
-**14.1.2019:** 2009 haaste/harrastesarja on täynnä!
-
-**9.1.2019:** 2010 syntyneiden sarjat ovat täynnä! Muissa sarjoissa on
-vielä hyvin tilaa.
+**7.1.2020:** Vuoden 2020 turnauksen ilmoittautuminen avattu
 
 
 ## Yleistä

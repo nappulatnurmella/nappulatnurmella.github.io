@@ -7,11 +7,11 @@ permalink: /tapahtuma/
 
 ## SARJAT
 
-**P2009** lauantai 25.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2010** lauantai 23.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
 
-**P2010** sunnuntai 26.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2011** sunnuntai 24.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
 
-**P2011** sunnuntai 26.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2012** sunnuntai 24.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
 
 ## PELITAPA
 
@@ -24,9 +24,9 @@ Kukin joukkue pelaa 4 peliä.
 
 ## OSALLISTUMISMAKSUT
 
-P2009: 130 €/joukkue
+P2010: 130 €/joukkue
 
-P2010 ja P2011: 100 €/joukkue
+P2011 ja P2012: 100 €/joukkue
 
 Jos sama taho ilmoittaa useampia pelaavia joukkueita, saa seuraavat alennukset:
 
@@ -34,8 +34,8 @@ Jos sama taho ilmoittaa useampia pelaavia joukkueita, saa seuraavat alennukset:
 
 3 joukkuetta: -20 € alennus kokonaishinnasta
 
-Osallistumismaksu sisältää mitalit 12 pelaajalle (P2009) / 9
-pelaajalle (P2010 ja P2011) sekä yhden tsempparipokaalin.
+Osallistumismaksu sisältää mitalit 12 pelaajalle (P2010) / 9
+pelaajalle (P2011 ja P2012) sekä yhden tsempparipokaalin.
 
 
 ## ILMOITTAUTUMINEN

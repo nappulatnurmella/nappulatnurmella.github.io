@@ -21,52 +21,31 @@ sign_up_form: "https://docs.google.com/forms/d/e/1FAIpQLSfK5DmdCgIv5Qjh0Jkz_HR2S
 
 main_sponsor_logo: vw.jpg
 sponsors_with_logos:
-  - - lidl.png
-    - gigantti.jpg
-  - - splizzeria.png
-    - turun_eines.jpg
-  - - salonen.png
-    - gobabygo.jpg
-  - - funsense.png
-    - remeo.jpg
-  - - moi.png
-    - kiilto.png
   - - rtv.jpg
-  - - superpark.png
-    - nummenpyora.jpg
+  - - autopeltityo-koivumaki.png
+  - - liedon-asbestipalvelut.png
+  - - pieni-erikoispuoti.png
+    - funsense.png
+  - - turun_eines.jpg
+    - salonen.png
+  - - mplus.png
+    - lofbergs.png
+  - - k-rauta.png
+  - - gigantti.jpg
+    - moi.png
 sponsor_names:
-  - Casagrande
-  - Fixus Raisio
+  - Autopeltityö Koivumäki
   - FunSense
   - Gigantti
-  - GoBabyGo
-  - Hovirinnan kioski
-  - Jeren Auto Jevi
   - K-rauta Kuninkoja
-  - Kasvitieteellinen puutarha
-  - Kiilto
   - Leipomo Salonen
-  - Lemmikkiasema
-  - Lidl
-  - Mehukattimaailma
+  - Liedon Asbestipalvelut
+  - Löfbergs
+  - M Plus
   - Moi
-  - Muovitukku
-  - Nummen Pyörä
-  - Orikedon Taverna
-  - Orkla
-  - Palosammutin PS
-  - Pizza Perez
+  - Pieni Erikoispuoti
   - RTV
-  - Remeo
-  - SF Katsastus Raisio
-  - Salonen
-  - Splizzeria
-  - Superpark
-  - Trampolinpark
   - Turun Eines
-  - Turun Linna
-  - Ukko-Pekka
-  - Viking Line
   - Volkswagen
 
 # Build settings

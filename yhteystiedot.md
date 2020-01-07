@@ -20,18 +20,7 @@ Markku Oksman
 
 **Puh:** 040 744 2342
 
-**Email:** [majook@utu.fi](mailto:majook@utu.fi)
-
-
-## Pojat -09
-
-Pekka Santanen
-
-**Puh:** 040 507 6007
-
-**Email:** [pekka.santanen0@saunalahti.fi](mailto:pekka.santanen0@saunalahti.fi)
-
-Tiedustelut koskien -09 joukkueita
+**Email:** [markku.j.oksman@gmail.com](mailto:markku.j.oksman@gmail.com)
 
 
 ## Pojat -10 ja -11
@@ -43,3 +32,11 @@ Jasmin Lumiaho
 **Email:** [jasmin.lumiaho@gmail.com](mailto:jasmin.lumiaho@gmail.com)
 
 Tiedustelut koskien -10 ja -11 joukkueita
+
+# Pojat -12
+
+Markku Oksman
+
+**Puh:** 040 744 2342
+
+**Email:** [markku.j.oksman@gmail.com](mailto:markku.j.oksman@gmail.com)
