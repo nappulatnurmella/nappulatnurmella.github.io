@@ -7,11 +7,11 @@ permalink: /tapahtuma/
 
 ## SARJAT
 
-**P2010** lauantai 23.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2010** lauantai 23.5.2020, 16 joukkuetta, kilpa ja haaste/harraste
 
-**P2011** sunnuntai 24.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2011** sunnuntai 24.5.2020, 16 joukkuetta, kilpa ja haaste/harraste
 
-**P2012** sunnuntai 24.5.2019, 16 joukkuetta, kilpa ja haaste/harraste
+**P2012** sunnuntai 24.5.2020, 16 joukkuetta, kilpa ja haaste/harraste
 
 ## PELITAPA
 
