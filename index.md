@@ -10,6 +10,8 @@ pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
 ## Uutiset
 
+**17.2.2020:** 2012 harrastesarja on täynnä!
+
 **7.1.2020:** Vuoden 2020 turnauksen ilmoittautuminen avattu
 
 
