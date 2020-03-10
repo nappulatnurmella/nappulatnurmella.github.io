@@ -15,9 +15,9 @@ permalink: /tapahtuma/
 
 ## PELITAPA
 
-P09: 8v8 1×25 min, pallo 4
+P2010: 8v8 1×25 min, pallo 4
 
-P10 ja P11: 5v5 1×25 min, pallo 3
+P2011 ja P2012: 5v5 1×25 min, pallo 3
 
 Kukin joukkue pelaa 4 peliä.
 
