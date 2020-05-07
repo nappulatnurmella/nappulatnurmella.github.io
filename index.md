@@ -4,18 +4,25 @@ layout: default
 
 # Volkswagen Nappulat Nurmella 2020
 
+**Turnaus on peruttu koronatilanteen vuoksi**
+
+<!--
+
 Kärsämäen nappulat järjestää jo seitsemännen kerran turnauksen
 lauantaina 23.5.2020 -10 pojille ja sunnuntaina 24.5.2020 -11 ja -12
 pojille Kärsämäen urheilupuiston nurmikentällä Pulmussuonkadulla.
 
+-->
+
 ## Uutiset
+
+**6.5.2020:** Turnaus peruttu koronatilanteen vuoksi
 
 **9.3.2020:** 2010 harrastesarja on täynnä!
 
 **17.2.2020:** 2012 harrastesarja on täynnä!
 
 **7.1.2020:** Vuoden 2020 turnauksen ilmoittautuminen avattu
-
 
 ## Yleistä
 
